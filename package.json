@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=22.14.0"
   },
   "packageManager": "pnpm@10.17.1",
   "dependencies": {
