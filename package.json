@@ -1,6 +1,6 @@
 {
   "name": "@kinokiru/sequalize-to-swagger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Swagger docs from Sequelize models.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

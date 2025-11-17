@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/KinoKiru/sequalize-to-swagger/compare/v1.0.0...v1.0.1) (2025-11-17)
+
+### Bug Fixes
+
+* enable npm publishing in semantic-release configuration ([eb14d2a](https://github.com/KinoKiru/sequalize-to-swagger/commit/eb14d2aa5b95a201ead0d175c11a3543d4304abd))
+
 ## 1.0.0 (2025-11-17)
 
 ### Features
