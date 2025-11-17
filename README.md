@@ -44,6 +44,21 @@ You can also manually create releases via the GitHub UI:
 
 ## Development
 
+### Prerequisites
+
+- Node.js >= 20.0.0 (use the version specified in `.nvmrc`)
+- pnpm 10.17.1 (specified in `package.json`)
+
+We recommend using [nvm](https://github.com/nvm-sh/nvm) to manage Node.js versions:
+
+```bash
+# Install the correct Node.js version
+nvm install
+nvm use
+```
+
+### Setup
+
 ```bash
 # Install dependencies
 pnpm install
