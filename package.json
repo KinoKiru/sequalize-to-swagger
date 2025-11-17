@@ -1,0 +1,28 @@
+{
+  "name": "@kinokiru/sequalize-to-swagger",
+  "version": "1.0.0",
+  "description": "Generate Swagger docs from Sequelize models.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "prepublishOnly": "pnpm run build",
+    "test": "node dist/test/smoke.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.1",
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "sequelize": "^6.37.7",
+    "swagger-jsdoc": "^6.2.8",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/swagger-jsdoc": "^6.0.4"
+  }
+}
