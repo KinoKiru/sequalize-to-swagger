@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/KinoKiru/sequalize-to-swagger/compare/v1.0.1...v1.0.2) (2025-11-17)
+
+### Bug Fixes
+
+* private false ([d704008](https://github.com/KinoKiru/sequalize-to-swagger/commit/d70400824f3dc87b469fd679bc1d6843b4123ff3))
+
 ## [1.0.1](https://github.com/KinoKiru/sequalize-to-swagger/compare/v1.0.0...v1.0.1) (2025-11-17)
 
 ### Bug Fixes
